@@ -1,7 +1,7 @@
 # PENTWI06 
 Introduction to AngularJS
 
-#Contents
+# Contents
 * [Getting Started](01-Getting_Started)
 * [Angular Controllers](02-Angular_Controllers)
 * [Expressions and Filters](03-Expressions_and_Filters)
